@@ -1,0 +1,13 @@
+Carro 1: Fiat modelo Doba de cor prata, peso 1778 e ano 2010
+Carro 2: Lada modelo Aba de cor prata, peso 1584 e ano 2019
+Carro 3: Fiat modelo Kaba de cor branco, peso 3252 e ano 1999
+Carro 4: Lada modelo Mamba de cor preto, peso 1245 e ano 2002
+Carro 5: BMW modelo Ciba de cor prata, peso 1100 e ano 2015
+Carro 6: Volksvagen modelo Faba de cor prata, peso 2816 e ano 2021
+Carro 7: Bugre modelo Gaba de cor branco, peso 858 e ano 2020
+Carro 8: BMW modelo Ciba de cor preto, peso 4761 e ano 1998
+Carro 9: Haval modelo Doba de cor prata, peso 2526 e ano 2000
+Carro 10: Volksvagen modelo Faba de cor prata, peso 4616 e ano 2003
+Carro 11: BYD modelo Mamba de cor branco, peso 4567 e ano 2007
+Carro 12: Lada modelo Gaba de cor preto, peso 2381 e ano 2004
+
